@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil ->Kaik 😁
-#desenvolvedor programador | software | tecnólogo
+🎃- #web developer | #programmer | #games | S.I
 
  <div>
    <a href="https://github.com/KaikV">

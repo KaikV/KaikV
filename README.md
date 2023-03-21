@@ -1,4 +1,5 @@
 ## Bem-vindo(a) ao meu perfil ->Kaik 😁
+#desenvolvedor programador | software | tecnólogo
 
  <div>
    <a href="https://github.com/KaikV">

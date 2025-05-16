@@ -21,7 +21,7 @@
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/kalleo_♡-black" />
+  <img src="https://img.shields.io/badge/Kaik_♡-black" />
 </div>
 
 <div align="center" width="100%">
@@ -34,20 +34,20 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=juankalleo&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaikV&theme=tokyonight"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=juankalleo&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
   />
   <br>
   <br>
   <img
     align="center"
     alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juankalleo&theme=tokyonight"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaikV&theme=tokyonight"
   />
   <br>
   <br>

@@ -34,13 +34,13 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KaikV&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
   />
   <img
     height=165
     align="center"
     alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&langs_count=6&theme=merko"
   />
   <br>
   <br>

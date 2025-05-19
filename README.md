@@ -29,30 +29,7 @@
 </div>
 
 
-<div align="center">
-  <img
-    height=180
-    align="center"
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=false"
-  />
-  <img
-    height=165
-    align="center"
-    alt="Top Language"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&langs_count=6&theme=merko"
-  />
-  <br>
-  <br>
-  <img
-    align="center"
-    alt="Top Language"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KaikV&theme=tokyonight"
-  />
-  <br>
-  <br>
 
-  </div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />

@@ -34,7 +34,7 @@
     height=165
     align="center"
     alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=true""
   />
   <img
     height=165

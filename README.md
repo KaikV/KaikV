@@ -28,8 +28,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!;Seja+Bem+Vindo!" alt="Typing SVG"/>
 </div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&langs_count=6&theme=merko"/>
+ <a href="https://instagram.com/kaik.exe" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/kaik-victor-b54064267/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
 <div align="center" style="display: inline_block"><br>

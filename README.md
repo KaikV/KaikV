@@ -28,7 +28,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!;Seja+Bem+Vindo!" alt="Typing SVG"/>
 </div>
 
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikV&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikV&layout=compact&langs_count=6&theme=merko"/>
 
 
 <div align="center" style="display: inline_block"><br>

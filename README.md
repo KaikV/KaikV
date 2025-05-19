@@ -28,8 +28,27 @@
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=38bdae&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Be+welcome!;Seja+Bem+Vindo!" alt="Typing SVG"/>
 </div>
 
- 
-
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaikV&theme=tokyonight"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaikV&layout=compact&hide_border=true&font=Iosevka&langs_count=16&theme=tokyonight"
+  />
+  <br><br>
+  <img
+    align="center"
+    alt="Profile Details"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaikV&theme=tokyonight"
+  />
+  <br><br>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />

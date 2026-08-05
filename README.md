@@ -135,14 +135,24 @@ Aprendizado aplicado em projetos reais, públicos ou privados
 
 <br>
 
-<h2 align="center">📊 Atividade pública no GitHub</h2>
+<h2 align="center">📂 Portfólio & atividade</h2>
 
 <p align="center">
-<em>Os dados abaixo representam apenas a atividade pública disponível no GitHub.</em>
+Meu GitHub é uma vitrine em construção e apresenta apenas uma parte da minha experiência.<br>
+Também desenvolvi e participei de projetos privados, acadêmicos e ainda não publicados.
 </p>
 
 <p align="center">
-<img width="68%" src="https://github-readme-stats.vercel.app/api?username=kaikV&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&locale=pt-br" alt="Estatísticas públicas do GitHub">
+<strong>Ruby on Rails</strong> • <strong>Next.js</strong> • <strong>APIs REST</strong> • <strong>MVC</strong> • <strong>C#</strong>
+</p>
+
+<p align="center">
+<a href="https://github.com/kaikV?tab=repositories"><img src="https://img.shields.io/badge/Explorar_repositórios-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios"></a>
+<a href="https://github.com/kaikV"><img src="https://img.shields.io/badge/Ver_perfil_no_GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Ver perfil no GitHub"></a>
+</p>
+
+<p align="center">
+<em>O conteúdo público não limita nem resume meu conhecimento técnico.</em>
 </p>
 
 <br>
